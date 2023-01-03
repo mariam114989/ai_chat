@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "simbot-rfaf",
+  "private_key_id": "ee1f3fa7ca2c0e476d1fb3e35ab35f5aa76991d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7hF1nkHQfaAgt\no+dR8R1YZaeBZftT37UaU0cyC0FqD7t5tux2roA0c2LcMwmBzmfkXKJN9sx55GKc\nROoN5MkZoSnHXrgEjt/d8XMopLOpBgRcj2nudl7DVfRAU0I+iWZH9W6SHyTEJiMB\n678s8taRYUuCSEkXodTIzqV9OsQL8Pw5rC3PZ6jcluGyqBh44/SerNGO2qebLN7T\nYbsNbiAvUIIE0DDdgtE7O3eajlG3Yo5943k6HCG34w7kTAjsZWo/Yj4ygEhJ6ZVC\nZd58BXlYu7xmCSY/JTd0ACN/KQPpewl/dQmArmMK2SoYqYLucKnt3hMuawnm8kbg\nUZ4iJqm/AgMBAAECgf9XRPnqXZlkcirJ7llwpMZxON4p7QNUBaSMm+w9XiQ4E6ya\nZoema0b2Rr0pdOBliRf1eN4Qj14IN/kaeBy+7N/PVuj2KbExknF5Ipy+3+grCur8\nuy+2Xam8rNZtq7+7Ee312IzBvbzMaGEHFh4sOtgzrDjl1webHJFY42XYUBN/w5Ku\nVjgWxvuOmC001YtqIrsoMDW21muHij9L4H2RMQNYltfHru2s183LCUzLGatMxDIG\nSQIzA7TTl+5sI2XZ+hOvMJAfpdAjjs3uC2PkBxIpxnuFxAcauYnuZERuMqU2HMMu\ne+fw37fjZ1L6bLperqjN0OmFHgISTl4aB1/EYIECgYEA44tTo1uYkaTGnZuzfRRH\nPT/zTP/D01775rbMZ4Rdemdw4IcW4iO0O4OnqPiUCc3jOpykauudQuDwkLLCwOuL\n2m11V+yFPmw/GzMGSNkmpfJnaETZLuiJvt0eFVhZVRnuVcRHdifuLWoqHx50Eb29\n1z/+UAZoMxKUr+NY2EKn4SECgYEA0veYS4hh983m8GmAzm1HrxE9BurERtyB3vxk\nq+etLOnhEQsFI0nz7MDSiGYusnyDe0/x8Gl1QC3I9d8fdhGKhX9lTuKwRxnz9fFP\nPfyGMsJwaKtluoiPCed0Wln+e+XdLjA2Sf4O6HqqmJV0FAKx1tpIH3EAyJxwSpnl\nBsWhzt8CgYEA4OGX3YDu/jH9YVK6R0m9RllnmZfE76eWCWRsC3qT8B8/PYgFI6Xp\nwE/TaXmSxUXH5utcy5bkq24oErm5JHUmmM9JA4ZsAU915um8sk56ldNGQ5SXmHaV\nfB6IVswkLakdFYKQpcO87wFXc73jNI1zi8JhErHiVWdtr49fBQyLYkECgYEAkU7g\nowXpFJnJu0Wv5n72pOqmsiD52CUBfukxHgaRDSJ6VxbUDx5c2HFnkXNwLpf8p+7E\noebBT9c5V8C7FsO2OYUp7k/NQuvpUTlIb1WDyWqLqkyD4Rs2CohVZ/YchpIo6iti\n+Uv4UMBMyJQIQ9AnVek7TAy1kXfPEFM3oJZ3gNkCgYARhKU9qsrUB/YaMlWbBNU5\nEpg/DSwN3ObgzDCXgr3qLM2w2fc6nHgUDDgc10NTBrNwBccjmkUXglVs4rFtwOvN\npCLsjXnX9XvIYcAojlil0Pomb/S/tGPqmf6lcCTNzaE8Qb8v6rZ9PnjH7NjUxjK/\nQf+Soz1DWRDP8v2CDS60xA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "simbot@simbot-rfaf.iam.gserviceaccount.com",
+  "client_id": "105209708396504244126",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/simbot%40simbot-rfaf.iam.gserviceaccount.com"
+}
